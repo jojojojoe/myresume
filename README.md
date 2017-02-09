@@ -1,0 +1,1 @@
+A simple web page one colum resume for Front-end web developers.
