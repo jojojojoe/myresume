@@ -1,0 +1,77 @@
+* {
+	box-sizing: border-box;
+	font-family: Helvetica, sans-serif;
+}
+
+body {
+	margin: 0 auto;
+	width: 80%;
+}
+
+header {
+	text-align: center;
+}
+
+#name {
+	margin-bottom: 0px;
+}
+
+#info {
+	margin-top: 0px;
+}
+hr {
+	margin-top: 0px;
+	margin-bottom: 5px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 0px;
+}
+
+h3, h5 {
+	margin-bottom: 0px;
+}
+
+h3 {
+	margin-top: 10px;
+}
+
+h5 {
+	margin-top: 5px;
+}
+
+ul {
+	margin-top: 0px;
+	margin-bottom: 10px;
+	padding-left: 20px;
+}
+
+li {
+	list-style-type: disc;
+}
+
+
+p, li, #education span, i {
+	font-size: 90%;
+	margin-top: 0;
+}
+
+#education h5 {
+	display: inline-block;
+	margin-top: 5px;
+}
+
+#eduDate, #workexp div span {
+	float: right;
+}
+
+#projects h5 {
+	margin-top: 0px;
+}
+
+p {
+	margin-bottom: 0px;
+}
+
+h2 {
+	margin-top: 10px;
+}
